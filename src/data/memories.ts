@@ -43,9 +43,17 @@ export const memories: Memory[] = [
     category: 'Team Outings',
     date: 'October 2024',
     image: 'https://images.unsplash.com/photo-1506869640319-fe1a24fd76cb?w=600&h=400&fit=crop',
-    image: 'https://unsplash.com/photos/q1Ban27G9MA',
     featured: true,
   },
+   {
+    id: 31,
+    title: 'Cox\'s Bazar Team Trip',
+    description: 'An unforgettable team outing to Cox\'s Bazar where we combined fun with team building exercises.',
+    category: 'Team Outings',
+    date: 'October 2024',
+    image: 'https://imgur.com/a/7NZDQ18',
+    featured: true,
+  }
   {
     id: 4,
     title: 'Best Data Agency Award',
