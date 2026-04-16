@@ -28,6 +28,16 @@ export const memories: Memory[] = [
     featured: true,
   },
   {
+    id: 17, // নতুন সিরিয়াল নম্বর
+    title: 'আপনার নতুন ইভেন্টের নাম',
+    description: 'নতুন ইভেন্টের বিবরণ এখানে লিখুন।',
+    category: 'Team Outings', // categories থেকে যেকোনো একটি বেছে নিন
+    date: 'May 2024',
+    image: 'আপনার_নতুন_ছবির_লিংক_এখানে_দিন', // যেমন: 'https://imgur.com/your-image-link.jpg'
+    featured: true // এটি ঐচ্ছিক, চাইলে দিতে পারেন বা বাদ দিতে পারেন
+  }
+];
+  {
     id: 2,
     title: '1000th Project Milestone',
     description: 'We successfully completed our 1000th data processing project — a huge milestone for EntryLab!',
