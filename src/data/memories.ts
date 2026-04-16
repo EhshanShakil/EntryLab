@@ -256,7 +256,7 @@ export const teamMembers = [
   },
   {
     name: 'Ehshan Shakil',
-    role: 'Operations Manager',
+    role: 'Operations Manager(NT)',
     image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face',
     bio: 'Ensures smooth project delivery and team coordination.',
   },
