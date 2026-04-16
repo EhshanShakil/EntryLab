@@ -33,7 +33,7 @@ export const memories: Memory[] = [
     description: 'We successfully completed our 1000th data processing project — a huge milestone for EntryLab!',
     category: 'Successful Projects',
     date: 'November 2024',
-    image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop',
+    image: 'https://imgur.com/a/7NZDQ18',
     featured: true,
   },
   {
